@@ -12,8 +12,17 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "JetBrains Mono", monospace, sans-serif;
+  flex-direction: column;
 }
 
 #result {
-    font-size: 4rem;
+  font-size: 4rem;
+}
+
+h3 {
+  color: rgb(206, 206, 206);
+}
+
+.fizzify {
+  color: aqua;
 }
