@@ -1,0 +1,19 @@
+html,
+body {
+  overflow-y: hidden;
+  height: 100%;
+}
+
+body {
+  background-color: #181818;
+  color: white;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-family: "JetBrains Mono", monospace, sans-serif;
+}
+
+#result {
+    font-size: 4rem;
+}
